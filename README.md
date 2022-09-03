@@ -21,7 +21,7 @@ The API has one endpoint to assist developers. Note that the endpoint return JSO
       "anthem_title": ⌛ coming soon,
       "anthem_audio": ⌛ coming soon
 
-- CountriesApi [./countriesApi.json](https://raw.githubusercontent.com/erickouassi/countriesApi/main/countriesApi.json)
+-`Get` CountriesApi [./countriesApi.json](https://raw.githubusercontent.com/erickouassi/countriesApi/main/countriesApi.json)
 
 ### Use in your own language
 
